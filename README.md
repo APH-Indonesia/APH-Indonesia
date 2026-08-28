@@ -1,4 +1,7 @@
 ## halo ! 
+
+<img width="240" height="20" alt="Image" src="https://github.com/user-attachments/assets/4b4d959d-d378-44c4-82b1-a081fcec6042" />
+
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/e948b7e2-4807-4845-8b91-a1dbd3e8c358" />
 <!--
 **APH-Indonesia/APH-Indonesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
